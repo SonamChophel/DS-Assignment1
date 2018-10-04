@@ -78,5 +78,6 @@ public class Bubble_Sort
         }
         
         a.sortArray();
+	ip.close();
     }
 }
